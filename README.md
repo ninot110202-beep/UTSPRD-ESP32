@@ -1,7 +1,6 @@
 # UTSPRD-ESP32
-#Nina : Nina
-#NIM : 2422017
-Berikut penjelasan singkat yang bisa langsung kamu taruh di **README GitHub** proyekmu:
+##Nina : Nina
+##NIM : 2422017
 
 ## Monitoring Kondisi Motor Industri Berbasis IoT
 
