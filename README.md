@@ -1,6 +1,6 @@
 # UTSPRD-ESP32
-##Nina : Nina
-##NIM : 2422017
+**Nina : Nina**
+**NIM : 2422017**
 
 ## Monitoring Kondisi Motor Industri Berbasis IoT
 
